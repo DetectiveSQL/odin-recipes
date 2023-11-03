@@ -1,0 +1,17 @@
+*{
+    background-color: lightgoldenrodyellow;
+}
+
+.title{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.title > a{
+    font-size: 1.5rem;
+}
+
+footer{
+    color: black;
+    font-weight: bold;
+}
